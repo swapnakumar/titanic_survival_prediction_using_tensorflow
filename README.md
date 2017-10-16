@@ -1,1 +1,1 @@
-# titanic_survival_prediction_using_tensorflow
+# Titanic Survival Prediction using Tensorflow
